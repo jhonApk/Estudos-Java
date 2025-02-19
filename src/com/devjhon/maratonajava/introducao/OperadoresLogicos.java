@@ -18,7 +18,7 @@ public class OperadoresLogicos {
         System.out.println(x == true && y == true); //uma condição é falsa por isso volta (false)
         System.out.println(x == false && y == true);//as duas são verdadeiras (true)
         System.out.println(x == true || y == true);//apeans uma precisa ser verdadeira (true)
-        System.out.println(x == true || y == false);//apeans uma precisa ser verdadeira (false)
+        System.out.println(x == true || y == true);//apeans uma precisa ser verdadeira (true)
     }
 
 
