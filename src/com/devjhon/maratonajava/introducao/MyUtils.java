@@ -6,6 +6,11 @@ public class MyUtils {
         System.out.println(num1 + num2);
     }
 
+    public static  int add10(int arg){
+        int result = arg+10;
+        return result;
+    }
+
     
 
 }
